@@ -1,0 +1,16 @@
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+.vs
+
+Binaries
+Saved
+Intermediate
+DerivedDataCache
+exe
